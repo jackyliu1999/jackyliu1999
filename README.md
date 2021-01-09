@@ -11,4 +11,4 @@
 <h3> 🛠 &nbsp;Skills</h3>
 
 - &nbsp;
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
