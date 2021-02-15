@@ -17,12 +17,11 @@
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/C%20-%2300599C.svg?style=flat-square&logo=c)
 ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=flat-square&logo=c-sharp)
-### Frameworks and Libraries:
+### Frameworks, Libraries and Databases:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![React Native](https://img.shields.io/badge/React_Native%20-%2320232a.svg?style=flat-square&logo=react&logoColor=ffffff)
 ![Flask](https://img.shields.io/badge/Flask%20-%23000.svg?style=flat-square&logo=flask)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Express.js](https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=flat-square)
-### Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=react&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=react&logoColor=ffffff)
