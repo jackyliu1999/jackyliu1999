@@ -22,4 +22,5 @@
 ### Frameworks and Libraries:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?style=flat-square&logo=react&logoColor=ffffff)
+![Flask](https://img.shields.io/badge/flask%20-%23000.svg?style=flat-square&logo=flask)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
