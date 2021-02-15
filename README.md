@@ -3,7 +3,7 @@
 
 - 🎓 &nbsp; I am a Computer Science Major at the University of Western Ontario.
 - 💻 &nbsp; I primarily work with Python for back end development and JavaScript using React for front end development.
-- 🖥️ &nbsp; I have experience working with SQL databases.
+- 🖥️ &nbsp; I have experience working with MySQL and MongoDB databases.
 - 🌐 &nbsp; [Click here to view my portfolio](https://jackyliu.netlify.app/)
 
 <h3> 🛠 &nbsp;Skills</h3>
@@ -25,4 +25,4 @@
 ![Express.js](https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=flat-square)
 ### Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=react&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=react&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=react&logoColor=ffffff)
