@@ -1,10 +1,10 @@
 <h2> Hello, my name is Jacky.</h2>
 <h3> &nbsp;About Me </h3>
 
+- 🌐 &nbsp; [Click here to view my portfolio](https://jackyliu.netlify.app/)
 - 🎓 &nbsp; I am a Computer Science Major at the University of Western Ontario.
 - 💻 &nbsp; I primarily work with Python for back end development and JavaScript using React for front end development.
 - 🖥️ &nbsp; I have experience working with MySQL and MongoDB databases.
-- 🌐 &nbsp; [Click here to view my portfolio](https://jackyliu.netlify.app/)
 
 <h3> 🛠 &nbsp;Skills</h3>
 
