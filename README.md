@@ -18,3 +18,8 @@
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/C%20-%2300599C.svg?style=flat-square&logo=c)
 ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=flat-square&logo=c-sharp)
+
+### Frameworks and Libraries:
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?style=flat-square&logo=react&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
