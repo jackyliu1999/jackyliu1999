@@ -23,6 +23,3 @@
 ![Flask](https://img.shields.io/badge/Flask%20-%23000.svg?style=flat-square&logo=flask)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Express.js](https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=flat-square)
-### Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=react&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=react&logoColor=ffffff)
